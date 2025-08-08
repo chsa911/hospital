@@ -1,5 +1,5 @@
 
-package com.example.hospital.service;
+package com.example.hospital.grpc;
 
 import com.example.hospital.entity.Hospital;
 import com.example.hospital.repository.HospitalRepository;
